@@ -5,7 +5,7 @@ This was my first JS project. It's used to count the number of people who have e
 ## Screenshots
 ### How it looks
 
-The app itself is very simple. It has a increment, decrement, reset, and save button.
+The app itself is very simple. It has an increment, decrement, reset, and save button.
 
 ![PassengerCounter](https://user-images.githubusercontent.com/94570140/152614377-7c30148f-0aec-434c-bb5e-79b6016c8143.png)
 
