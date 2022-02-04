@@ -11,4 +11,5 @@ The app itself is very simple. It has a increment, decrement, reset, and save bu
 
 
 The screenshot below shows an example of the previous entries saved.
+
 ![PassengerCounter2](https://user-images.githubusercontent.com/94570140/152614382-39294a36-5d19-466f-ada9-2c507fb1b4d3.png)
